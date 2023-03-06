@@ -11,7 +11,7 @@ Bashi kesta skriptid ja pythoni skriptid eesti keelse kasutajakeskkonna jaoks:
 * viking_lotto.py - eesti viking lotto, kõige paremad numbrid on need, mis sinu masin annab!!!
 * trips-traps.sh - kui kaks geeniust mängivad trips-traps-trulli, siis sobib see skript hästi!
 ------
-NB! Kõigil skriptidel on autorikaitse. Ja see on vaikimis selline, kasuta, kopeeri, jaga ja muuda, kuid ära jumala pärast enda nimel neid välja anna, eriti kui mina olen neid siia pannud!
+NB! Kõigil skriptidel on autorikaitse. Ja see on vaikimisi selline: kasuta, kopeeri, jaga ja muuda, kuid ära jumala pärast enda nimel neid välja anna, eriti kui mina olen neid siia pannud!
 
 Copyright on olemas ja see on:
 github.com/~vabame
