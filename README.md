@@ -1,5 +1,5 @@
 Bashi kesta skriptid ja pythoni skriptid eesti keelse kasutajakeskkonna jaoks:
-(kui python skript ei tööta, siis on sul mingi moodul paigaldamata ja kui skript ei tööta, siis on sul käivitamisõigus tegemata)
+(kui python skript ei tööta, siis on sul mingi moodul paigaldamata ja kui bashi skript ei tööta, siis on sul käivitamisõigus tegemata)
 
 * matatest.sh - matemaatika test geeniusele (nagu mina). Paremat rakendust sa ei leia.
 * missugune.py - mäng, kus pead ära arvama numbrist 1-10ni. Algajale, kes tahab loteriid hakata mängima!!
