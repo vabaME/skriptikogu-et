@@ -10,7 +10,7 @@ Bashi kesta skriptid ja pythoni skriptid eesti keelse kasutajakeskkonna jaoks:
 * valija.sh - vägagi avatud valimisrakenduse simulaatormäng. Vali nii palju kui tahad ja statistika on olemas.
 * viking_lotto.py - eesti viking lotto, kõige paremad numbrid on need, mis sinu masin annab!!!
 ------
-NB! Kõigil skriptidel on autorikaite. Ja see on vaikimis selline, kasuta, kopeeri, jaga ja muuda, kuid ära jumala pärast enda nimel neid välja anna, eriti kui mina olen neid siia pannud!
+NB! Kõigil skriptidel on autorikaite. Ja see on vaikimis selline: kasuta, kopeeri, jaga ja muuda, kuid ära jumala pärast enda nimel neid välja anna, eriti kui mina olen neid siia pannud!
 
 Copyright on olemas ja see on:
 github.com/~vabame
