@@ -1,5 +1,5 @@
 Bashi kesta skriptid ja pythoni skriptid eesti keelse kasutajakeskkonna jaoks:
-(kui python skript ei tööta, siis on sul mingi moodul paigaldamata ja kui bashi skript ei tööta, siis on sul käivitamisõigus tegemata)
+(kui python skript ei tööta, siis on sul mingi moodul paigaldamata ja kui skript ei tööta, siis on sul käivitamisõigus tegemata)
 
 * matatest.sh - matemaatika test geeniusele (nagu mina). Paremat rakendust sa ei leia.
 * missugune.py - mäng, kus pead ära arvama numbrist 1-10ni. Algajale, kes tahab loteriid hakata mängima!!
@@ -9,8 +9,9 @@ Bashi kesta skriptid ja pythoni skriptid eesti keelse kasutajakeskkonna jaoks:
 * termup.sh - teksti ja tekstifailide üleslaadimine serverisse, programm kasutab netcat paketti.
 * valija.sh - vägagi avatud valimisrakenduse simulaatormäng. Vali nii palju kui tahad ja statistika on olemas.
 * viking_lotto.py - eesti viking lotto, kõige paremad numbrid on need, mis sinu masin annab!!!
+* trips-traps.sh - kui kaks geeniust mängivad trips-traps-trulli, siis sobib see skript hästi!
 ------
-NB! Kõigil skriptidel on autorikaitse. Ja see on vaikimis selline: kasuta, kopeeri, jaga ja muuda, kuid ära jumala pärast enda nimel neid välja anna, eriti kui mina olen neid siia pannud!
+NB! Kõigil skriptidel on autorikaite. Ja see on vaikimis selline, kasuta, kopeeri, jaga ja muuda, kuid ära jumala pärast enda nimel neid välja anna, eriti kui mina olen neid siia pannud!
 
 Copyright on olemas ja see on:
 github.com/~vabame
