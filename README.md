@@ -10,6 +10,7 @@ Bashi kesta skriptid ja pythoni skriptid eesti keelse kasutajakeskkonna jaoks:
 * valija.sh - vägagi avatud valimisrakenduse simulaatormäng. Vali nii palju kui tahad ja statistika on olemas.
 * viking_lotto.py - eesti viking lotto, kõige paremad numbrid on need, mis sinu masin annab!!!
 * trips-traps.sh - kui kaks geeniust mängivad trips-traps-trulli, siis sobib see skript hästi!
+* arvamis.sh - ajaliselt piiratud sõna ära arvamise mäng.
 ------
 NB! Kõigil skriptidel on autorikaitse. Ja see on vaikimisi selline: kasuta, kopeeri, jaga ja muuda, kuid ära jumala pärast enda nimel neid välja anna, eriti kui mina olen neid siia pannud!
 
