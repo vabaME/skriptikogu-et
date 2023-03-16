@@ -8,7 +8,8 @@ Bashi kesta skriptid ja pythoni skriptid eesti keelse kasutajakeskkonna jaoks:
 * tekster.sh - espeak programmi eesti keele jaoks lisavidin, mis aitab kiiresti teksti eesti häälega failiks teha!
 * termup.sh - teksti ja tekstifailide üleslaadimine serverisse, programm kasutab netcat paketti.
 * valija.sh - vägagi avatud valimisrakenduse simulaatormäng. Vali nii palju kui tahad ja statistika on olemas.
-* viking_lotto.py - eesti viking lotto, kõige paremad numbrid on need, mis sinu masin annab!!!
+* viking_lotto.py - eesti viking lotto, kõige paremad numbrid on need, mis sinu masin annab!!! eesti loto kodulehel ei saa kõike numbreid ise panna !!
+* viking_lotto_sys.py - süsteemimäng, ühe lisanumbriga (ilma pliks-plaksuta sa eesti loto kodulehel ei saa kõiki numbreid 19-25 on puudu)
 * trips-traps.sh - kui kaks geeniust mängivad trips-traps-trulli, siis sobib see skript hästi!
 * arvamis.sh - ajaliselt piiratud sõna ära arvamise mäng.
 ------
