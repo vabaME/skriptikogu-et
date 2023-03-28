@@ -12,7 +12,8 @@ Bashi kesta skriptid ja pythoni skriptid eesti keelse kasutajakeskkonna jaoks:
 * viking_lotto_sys.py - süsteemimäng, ühe lisanumbriga (ilma pliks-plaksuta sa eesti loto kodulehel ei saa kõiki numbreid 19-25 on puudu)
 * trips-traps.sh - kui kaks geeniust mängivad trips-traps-trulli, siis sobib see skript hästi!
 * arvamis.sh - ajaliselt piiratud sõna ära arvamise mäng.
-------
+* jokker - binaar, mis on Jokker mäng. Genereerib 7 numbrit 0 - 9ni. Saate eesti loto Jokkerit mängida. Võidu maksab eesti loto kinni, juhul kui te need neile edastate ja pileti ostate! NB! Tegu on 64 bitise binaariga ja seda tuleb teha käivitatavaks: chmod + x jokker ja pärast ./jokker ka käivitada. Lähtekoodi ei anna.
+ ------
 NB! Kõigil skriptidel on autorikaitse. Ja see on vaikimisi selline: kasuta, kopeeri, jaga ja muuda, kuid ära jumala pärast enda nimel neid välja anna, eriti kui mina olen neid siia pannud!
 
 Copyright on olemas ja see on:
