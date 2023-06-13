@@ -14,7 +14,7 @@ valjundfail=${sisendfail%.*}.ogg
 
 # Määrame keele ja häälemooduli valikud espeakile
 keel="et"
-haal="mb-lt-1"
+haal="mb-ee1"
 
 # Eemaldame tühikud ja reavahetused sisendfailist, asendades need tühikutega
 sisend=$(cat $sisendfail | tr -d '\n' | tr -s ' ')
